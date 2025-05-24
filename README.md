@@ -1,5 +1,11 @@
 # EXPERIMENT-06-Data-Publishing-to-IoT-Broker-Using-MQTT3
-# DHARSHINIYAA KS (212223100004)
+
+### NAME: M MANI SRI LATHA
+### REGISTER NUMBER: 212223110025
+### DEPARTMENT: CSE(IoT)
+### YEAR: 2nd Year
+
+
 ## Aim:
 To publish data to an IoT broker using the MQTT protocol.
 
@@ -39,9 +45,11 @@ print(f"Message '{message}' published to topic '{topic}'")
 ```
 
 ## Outputs:
-![Screenshot 2025-03-28 162105](https://github.com/user-attachments/assets/61394840-9001-4dfd-b21e-17c0ab1188cd)
+![image](https://github.com/user-attachments/assets/1d94cda8-a75e-4af3-8713-b3100d848b06)
 
-![Screenshot 2025-03-28 162117](https://github.com/user-attachments/assets/18d50430-5f6d-4a0a-b100-7a372bc60924)
+![image](https://github.com/user-attachments/assets/c7ca1806-3ecc-45f3-8a41-f493cea9642f)
+
+![image](https://github.com/user-attachments/assets/0936f26c-f4bc-46cd-8a82-c5d872118d5b)
 
 
 ## Results:
