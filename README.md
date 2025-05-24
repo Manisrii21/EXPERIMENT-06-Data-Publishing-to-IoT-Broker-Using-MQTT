@@ -45,11 +45,9 @@ print(f"Message '{message}' published to topic '{topic}'")
 ```
 
 ## Outputs:
-![image](https://github.com/user-attachments/assets/1d94cda8-a75e-4af3-8713-b3100d848b06)
+![Screenshot 2025-03-28 162105](https://github.com/user-attachments/assets/1494366e-a8c1-4e85-8915-88adf737a07d)
 
-![image](https://github.com/user-attachments/assets/c7ca1806-3ecc-45f3-8a41-f493cea9642f)
-
-![image](https://github.com/user-attachments/assets/0936f26c-f4bc-46cd-8a82-c5d872118d5b)
+![Screenshot 2025-03-28 162117](https://github.com/user-attachments/assets/116406d0-6276-486b-8e72-7ece9bbb4a31)
 
 
 ## Results:
